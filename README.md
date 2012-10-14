@@ -12,4 +12,4 @@ Smutefy only works in Mac OS X 10.5 and 10.6
 More information: [http://smutefy.inacho.es](http://smutefy.inacho.es)
 
 ## Alternatives
-[SpotiFree](https://github.com/ArtemGordinsky/SpotiFree).
+[SpotiFree](https://github.com/ArtemGordinsky/SpotiFree)
