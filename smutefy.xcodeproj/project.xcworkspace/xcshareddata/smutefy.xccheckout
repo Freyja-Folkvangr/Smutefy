@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6925BFF-6BC0-48BA-8D19-8D2A69D0465A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>smutefy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4EE72375BD631B98688CC1A6EFC649DDA870A6B</key>
+		<string>https://github.com/Freyja-Folkvangr/Smutefy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>smutefy.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4EE72375BD631B98688CC1A6EFC649DDA870A6B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Freyja-Folkvangr/Smutefy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4EE72375BD631B98688CC1A6EFC649DDA870A6B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4EE72375BD631B98688CC1A6EFC649DDA870A6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Smutefy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
