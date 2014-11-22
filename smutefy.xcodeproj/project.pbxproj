@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
-		61EFFEC91A201E0500BB1CB3 /* smutefy beta.app in Resources */ = {isa = PBXBuildFile; fileRef = 8D1107320486CEB800E47090 /* smutefy beta.app */; };
 		6608705811A18F7500957BD5 /* smutefyAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* smutefyAppDelegate.m */; };
 		660870D411A1A55D00957BD5 /* status_active.png in Resources */ = {isa = PBXBuildFile; fileRef = 660870D111A1A55D00957BD5 /* status_active.png */; };
 		660870D511A1A55D00957BD5 /* status_click.png in Resources */ = {isa = PBXBuildFile; fileRef = 660870D211A1A55D00957BD5 /* status_click.png */; };
@@ -233,7 +232,6 @@
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
 				66E6024D11A0C25A00F87BA8 /* smutefy.icns in Resources */,
 				66E6026C11A0C63500F87BA8 /* SwitchAudioSource in Resources */,
-				61EFFEC91A201E0500BB1CB3 /* smutefy beta.app in Resources */,
 				660870D411A1A55D00957BD5 /* status_active.png in Resources */,
 				660870D511A1A55D00957BD5 /* status_click.png in Resources */,
 				660870D611A1A55D00957BD5 /* status_normal.png in Resources */,
@@ -293,12 +291,14 @@
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
 				);
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_GC = unsupported;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = smutefy_Prefix.pch;
-				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_VERSION = "";
 				INFOPLIST_FILE = "smutefy-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = "smutefy beta";
@@ -318,6 +318,8 @@
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
 				);
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
+				GCC_ENABLE_OBJC_GC = unsupported;
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = smutefy_Prefix.pch;

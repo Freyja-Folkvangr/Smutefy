@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string>smutefy.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>es.inacho.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>es.evergreen2.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -29,7 +29,7 @@
 	<key>LSUIElement</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>© Ignacio de Tomás, support by Giuliano Tognarelli</string>
+	<string>© Update by Giuliano Tognarelli</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
