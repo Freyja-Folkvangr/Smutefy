@@ -80,7 +80,7 @@
 
 - (IBAction)visitHomepage:(id)sender
 {
-	[[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:@"http://smutefy.inacho.es"]];
+	[[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:@"http://www.google.cl"]];
 }
 
 - (IBAction)restoreDefaultsRegex:(id)sender
